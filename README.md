@@ -3,4 +3,5 @@
  
  - create new repo
  - add some documents
+ - added new details
  
